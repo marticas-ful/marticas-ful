@@ -2,7 +2,7 @@
 
 **Computer Science student · Cybersecurity enthusiast · Game developer · Based in Prague**
 
-I'm a Bachelor's student passionate about **web security** and application development. My thesis research focuses on OAuth 2.0 and OpenID Connect vulnerability analysis. I enjoy building things — from arcade games to security tooling.
+I'm a Bachelor's student passionate about web security and application development. My thesis research focuses on OAuth 2.0 and OpenID Connect vulnerability analysis. I enjoy building things, and my interests spread into varying sectors - analysis programs, networking applications, and even video games. I am strongest in programming with Python and Java, and I've 
 
 ---
 
@@ -11,7 +11,7 @@ I'm a Bachelor's student passionate about **web security** and application devel
 ### OAuthScanner
 > *Python · Security Research · Bachelor's Thesis*
 
-A Python tool for automated analysis of **OAuth 2.0 and OpenID Connect vulnerabilities** across single or bulk website targets. Developed as part of my Bachelor's thesis.
+A Python tool for automated analysis of OAuth 2.0 and OpenID Connect vulnerabilities across single or bulk website targets. Developed as part of my Bachelor's thesis.
 
 ![Thesis Abstract](assets/abstract-screenshot.png)
 
@@ -67,7 +67,7 @@ Your University Name · Expected 2026
 
 [→ Programme description](https://www.lancasterleipzig.de/study/undergraduate/courses/computer-science-bsc/)
 
-*Focus areas: web security, networked systems, software engineering*
+*Focus areas: basics of computer science, networks and security, deep learning*
 
 ---
 

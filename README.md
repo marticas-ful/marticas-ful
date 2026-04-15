@@ -13,11 +13,11 @@ I'm a Bachelor's student passionate about **web security** and application devel
 
 A Python tool for automated analysis of **OAuth 2.0 and OpenID Connect vulnerabilities** across single or bulk website targets. Developed as part of my Bachelor's thesis.
 
-![Thesis Abstract](assets/thesis-abstract.png)
+![Thesis Abstract](assets/abstract.png)
 
 `Python` `OAuth 2.0` `OpenID Connect` `Security Research`
 
-🎬 **[Watch demo](YOUR_VIDEO_LINK_HERE)** &nbsp;|&nbsp; 📂 **[View repo](YOUR_REPO_LINK_HERE)**
+📂 **[View repo](https://github.com/marticas-ful/OAuthScanner0)**
 
 ---
 
@@ -26,20 +26,22 @@ A Python tool for automated analysis of **OAuth 2.0 and OpenID Connect vulnerabi
 
 An 80s arcade-style space shooter built with LibGDX in Java. I led the team, designed all animation for the protagonist and enemies, built the weapons and upgrades system, coded protagonist and enemy UI, and handled map design.
 
-![Interstellar Adventure gameplay](assets/interstellar-screenshot.png)
+![Interstellar Adventure gameplay](assets/interstellar-adventure.png)
 
 `Java` `LibGDX` `Game Development` `Team Lead`
 
-📂 **[View repo](YOUR_REPO_LINK_HERE)** &nbsp;|&nbsp; 🎬 **[Watch demo](YOUR_YOUTUBE_LINK_HERE)**
+🎬 **[Watch demo](https://youtu.be/EFi5PzSpEQw)**📂 &nbsp;|&nbsp; **[View repo](https://github.com/marticas-ful/Group-Project)** &nbsp;|&nbsp;
 
 ---
 
 ### LUConnect
 > *Networking · Client–Server Architecture · Coursework*
 
+![LUConnect](assets/LUConnect.png)
+
 A networked application supporting multiple users interacting with a server on a local machine. Demonstrates socket-based client–server communication.
 
-🎬 **[Watch demo](YOUR_VIDEO_LINK_HERE)** &nbsp;|&nbsp; 📂 **[View repo](YOUR_REPO_LINK_HERE)**
+🎬 **[Watch demo](https://www.youtube.com/watch?v=Mzj30ZyFgpg)** &nbsp;|&nbsp; 📂 **[View repo](https://github.com/marticas-ful/LUConnect)**
 
 `Networking` `Sockets` `Client–Server`
 

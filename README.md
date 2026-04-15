@@ -30,7 +30,7 @@ An 80s arcade-style space shooter built with LibGDX in Java. I led the team, des
 
 `Java` `LibGDX` `Game Development` `Team Lead`
 
-🎬 **[Watch demo](https://youtu.be/EFi5PzSpEQw)**📂 &nbsp;|&nbsp; **[View repo](https://github.com/marticas-ful/Group-Project)** &nbsp;|&nbsp;
+🎬 **[Watch demo](https://youtu.be/EFi5PzSpEQw)** &nbsp;|&nbsp; 📂 **[View repo](https://github.com/marticas-ful/Group-Project)** &nbsp;|&nbsp;
 
 ---
 
